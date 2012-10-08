@@ -23,6 +23,7 @@
   },
   "devDependencies" : {
     },
-    "scripts" : {
+     "scripts" : {
+        "test" : "node tests/test.js"
   }
 }
