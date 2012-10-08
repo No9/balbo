@@ -5,6 +5,8 @@ Supports all handlebars.js templating techniques
 
 [![build status](https://secure.travis-ci.org/No9/balbo.png)](http://travis-ci.org/No9/balbo)
 
+[![balbo picture](http://beardandmoustache.org/sites/beardandmoustache.org/files/balbo_0.jpg)](http://beardandmoustache.org/sites/beardandmoustache.org/)
+
 ## Install 
 ```
 npm install balbo
